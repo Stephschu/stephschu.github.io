@@ -1,7 +1,8 @@
 = Bautagebuch Familie Schultheiß
 :imagesdir: ./Bilder
 Stephan Schultheiß <stephan.schultheiss@gmail.com>
-:toc:
+:toc2: right
+:toc-title: Chronologie
 
 == 26.09.2013 L-Steine, Gründung Garage, Grenzstein und Berliner Verbund
 * Treffen mit Familie Maier lief entspannt. Haben direkt das Du angeboten bekommen. Deren Bauleiter Herr Muscheid war auch dabei. Wir haben uns jetzt darauf geeinigt, das unserer Garagenbodenplatte ca. 1m unterhalb der Bodenplatte des HAR von Familie Maier ist. So können wir mit leichtem Gefälle auf die Straße fahren.
