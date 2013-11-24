@@ -1,8 +1,19 @@
 = Bautagebuch Familie Schultheiß
-:imagesdir: ./Bilder
 Stephan Schultheiß <stephan.schultheiss@gmail.com>
 :toc2: right
 :toc-title: Chronologie
+
+== 23.11.2013 Elektroinstallation Erdgeschossdecke
+Heute mit Sebastian und Mum die Lampenkabel in die Betondecke des EG eingezogen.
+
+image::http://farm3.staticflickr.com/2878/11012311005_c638760d89.jpg[Elektor-Erdgeschossdecke - 06, 500, 375, link="http://www.flickr.com/photos/stephschu/11012311005"]
+image::http://farm4.staticflickr.com/3731/11012498924_39b0d6e630.jpg[Elektor-Erdgeschossdecke - 04, 500, 375, link="http://www.flickr.com/photos/stephschu/11012498924"]
+
+
+== 22.11.2013 Dachüberstand, Ziegel
+Frau Beck hat angerufen wg. dem Dachüberstand. Haben uns auf 30 cm verständigt. Anschließend mit unserem Zimmermann, Herrn Keiper telefoniert um das nochmal abzusprechen.
+Dabei kamen wir auch auf die Ziegeln zu sprechen. Ich hab ihm unsere Vorgaben (scharz, flach, Ton) mitgeteilt. Er teil die Parameter nun seinem Zulieferere mit, und
+wird uns dann eine Auswahl zukommen lassen. Als Alternative macht er uns noch ein Angebot für die von uns bei Köbig in MZ entdeckte Ziegel (http://www.wienerberger.de/flachdachziegel-e-32-in-tiefschwarz.html[Koramic E32]).
 
 == 28.10.2013 Revisionschacht und Zisterne
 Vororttermin mit Frau Beck. Es wurde besprochen wie wir das mit der Schiebetür regeln wollen. Es wird nun alles ohne Stufe gemacht.
@@ -10,11 +21,16 @@ Erfahren, dass bis Donnerstag bei gefüllt wird und der Revisionsschacht und die
 Leider ist es nicht möglich Erde aus dem Garten zum Verfüllen zu verwenden, da die Bauarbeiter keine Möglichkeit haben mit dem Bagger in den Garten zu kommen.
 Also wird alles mit Recylclingmaterial aufgefüllt. Sie werden dazu die Kellerdecke mit einem Ladefahrzeug befahren, hoffen wir mal, dass das kein Problem ist. 
 
+image::http://farm4.staticflickr.com/3673/10596942253_8090fd04cc.jpg[Zisterne - 6, 500, 375, link="http://www.flickr.com/photos/stephschu/10596942253"]
+image::http://farm4.staticflickr.com/3774/10596688965_99ff54fcbb.jpg[Zisterne - 3, 500, 375, link="http://www.flickr.com/photos/stephschu/10596688965"]
 
 == 22.10.2013 Filigrandecke und Kabel
 Heute Morgen wurde die Filigrandecke für den Keller geliefert. Als Mum, Simon (kam erst von der LKW Nachtschicht und hat trotzdem geholfen!) und ich um 11 Uhr anrückten um die Kabel einzuziehen, war 
 die Decke schon komplett verlegt. Der Riga Kran war aber noch vor Ort, aber im Begriff abzufahren.
 Wir haben dann von 11 Uhr bis 18 Uhr die Lampen, Zuleitungen, Rolladen und EIB Kabel eingezogen. Zwischendurch ging uns das Kabel und Leerrohr aus. Mum hat dann beim Toom Baumarkt Nachschub besorgt.
+
+image::http://farm4.staticflickr.com/3782/10454482505_d660a23bba.jpg[Elektro-Kellerdecke - 03, 500, 375, link="http://www.flickr.com/photos/stephschu/10454482505"]
+image::http://farm8.staticflickr.com/7335/10514795556_033f61be1b.jpg[Kellerdecke - 11, 500, 375, link="http://www.flickr.com/photos/stephschu/10514795556"]
 
 
 == 10.10.2013 Kellerwänder gestellt
@@ -26,11 +42,8 @@ Die Betonelemente der Aussenwände des Kellers wurden heute geliefert und aufges
 * Neben dem Pflanzdreieck das vor dem Grundstück von Familie Maier ist noch ein ca. 10 cm breiter Streifen vorhanden der zum Grundstück von Familie Maiere gehört. Aus optischen Gründen hat Familie Maier zugestimmt, das die L-Steine bündig an das Pflanzdreieck gesetzt werden und sie somit auf den Streifen verzichten. Wir werden diesen dann im Rahmen unserer Aussenarbeiten pflastern. 
 * Berliner Verbund wurde fertiggestellt. Bauarbeiten ruhen jetzt bis zum Eintreffen der Kelleraussenwände.
 
-image:Berliner Verbund - 4.jpg[Plane,450,250]
-image:Berliner Verbund - 3.jpg[Plane,450,250]
-
-image:Berliner Verbund - 2.jpg[Plane,450,250]
-image:Berliner Verbund - 1.jpg[Plane,450,250]a
+image::http://farm6.staticflickr.com/5491/9953945033_39ae88322a.jpg[P1020702, 500, 375, link="http://www.flickr.com/photos/stephschu/9953945033"]
+image::http://farm8.staticflickr.com/7351/9953827375_93e57066da.jpg[P1020703, 500, 375, link="http://www.flickr.com/photos/stephschu/9953827375"]
 
 == 24.09.2013 Wanddurchlässe WP, Vororttermin mit Herrn Maier
 * Anruf Frau Beck, das die von der Firma Marx von mir weitergeleiteten technischen Zeichnungen der Wandurchfürhung der Wärmepumpe zwei unterschiedlichen Maße aufweisen. Wandabstand 80 mm bzw. 250 mm. Herr Marx wäre heute leider nicht mehr zu erreichen... Frau Beck wollte das nochmal mit der Sekretärin von Herrn Marx durchsprechen und sich dann entscheiden welche Maße Sie an das Betonwerk für die Kellerwände weitergibt.
@@ -50,8 +63,8 @@ Frau Beck hat vorgeschlagen die Garage anzuheben, so dass unsere Garage auf eine
 * Angebot von Herrn Beck für eine Haustür erhalten.
 * Heute konnten wir die fertige Bodenplatte bewundern. + 
 
-image:Bodenplatte - 04.jpg[Bodenplatte,450,250]
-image:Plane - 1.jpg[Plane,450,250]
+image::http://farm4.staticflickr.com/3669/9953930363_bdf4d2c2de.jpg[P1020700, 500, 375, link="http://www.flickr.com/photos/stephschu/9953930363"]
+image::http://farm8.staticflickr.com/7340/9804439384_1d3412daf0.jpg[P1020696, 500, 375, link="http://www.flickr.com/photos/stephschu/9804439384"]
 
 == 17.09.2013 Zusage Heizung/Sanitär
 
@@ -61,8 +74,7 @@ image:Plane - 1.jpg[Plane,450,250]
 
 Emma, Judith und ich waren heute auf der Baustelle und uns den bisherigen Baufortschritt anzuschauen. In die geschalte Bodenplatte wurde bereits angefangen die Eisenbewährung einzuarbeiten. Ich habe das ganze bildlich festgehalten.
 
-image:Bodenplatte - 11.jpg[Bodenplatte,450,250]
-image:Bodenplatte - 08.jpg[Bodenplatte,450,250]
+image::http://farm8.staticflickr.com/7423/9755228462_bdc5943449.jpg[Stahlmatten_6, 500, 375, link="http://www.flickr.com/photos/stephschu/9755228462"]
 
 == 13.09.2013 Ärger mit dem Bauunternehmer des Nachbarn
 
@@ -81,20 +93,16 @@ Frau Beck hat sich wieder gesund gemeldet. Wollte nochmal das Schreiben mit der 
 Sie sagte mir zu spätestens morgen Abend wären die Unterlagen vor Ort. Sie würde jetzt noch die Pläne für die Bodenplatte für die Firma Jung fertig machen und die Kanalpläne an Herrn Jung übersenden.
 Nachmittags mit Herrn Beck von der Firma Wies wg. dem Fensterangebot verhandelt. Morgen will er mir das überarbeitete Angebot zukommen lassen.
 
-
-image:Bodenplatte - 15.jpg[Bodenplatte,450,250]
-image:Bodenplatte - 14.jpg[Bodenplatte,450,250]
-
-image:Bodenplatte - 13.jpg[Bodenplatte,450,250]
+image::http://farm8.staticflickr.com/7319/9755438316_fa61f7d996.jpg[Bodenplatte_9, 500, 375, link="http://www.flickr.com/photos/stephschu/9755438316"]
+image::http://farm8.staticflickr.com/7404/9755241412_9977edbe3e.jpg[Stahlmatten_1, 500, 375, link="http://www.flickr.com/photos/stephschu/9755241412"]
 
 == 06.09.2013 Beginn Arbeiten Bodenplatte
 
 Ein Bautrupp der Firma Jung hat mit dem einbringen der Schotterschicht für die Bodenplatte begonnen. +
 Ich war mit Emma und Mum vor Ort (Hautarzttermin währenddessenMum hat auf Emma aufgepasst) und hab den Bauarbeiten einen Sixpack Wasser und Cola spendiert weil es ca 29° hatte.
 
-image:Bodenplatte - 17.jpg[Bodenplatte,450,250]
-image:Bodenplatte - 16.jpg[Bodenplatte,450,250]
-
+image::http://farm6.staticflickr.com/5503/9755516053_d8b54de273.jpg[Bodenplatte_6, 500, 375, link="http://www.flickr.com/photos/stephschu/9755516053"]
+image::http://farm4.staticflickr.com/3817/9775998235_154c99f096.jpg[P1000913, 500, 375, link="http://www.flickr.com/photos/stephschu/9775998235"]
 
 
 == 05.09.2013 Beginn Aushubarbeiten [[Aushub]]
@@ -105,18 +113,8 @@ So könnten keine Baggerarbeiten durchgeführt werden, er müsse die Stahlstütz
 Das Telefonat mit Herrn Maier verlief gottlob sehr gut. Ihm war die Situation schon bekannt, allerdings hätte sein Bautrupp gesagt das Vorgehen wäre mit einem "meiner Leute" abgesprochen. Einen Namen hätte er aber nicht. Er hat den Abriss jedenfalls relativ gelassen zur Kenntnis genommen. +
 Frau Beck war leider noch immer krank.
 
-image:Baggerarbeiten - 1.jpg[Baggerarbeiten,450,250]
-image:Baggerarbeiten - 2.jpg[Baggerarbeiten,450,250]
-
-image:Baggerarbeiten - 3.jpg[Baggerarbeiten,450,250]
-image:Baggerarbeiten - 4.jpg[Baggerarbeiten,450,250]
-
-image:Baggerarbeiten - 5.jpg[Baggerarbeiten,450,250]
-image:Baggerarbeiten - 6.jpg[Baggerarbeiten,450,250]
-
-image:Baggerarbeiten - 7.jpg[Baggerarbeiten,450,250]
-image:Baggerarbeiten - 8.jpg[Baggerarbeiten,450,250]
-
+image::http://farm8.staticflickr.com/7457/9755451625_18e15bcc9b.jpg[Baggerarbeiten_4, 500, 375, link="http://www.flickr.com/photos/stephschu/9755451625"]
+image::http://farm3.staticflickr.com/2805/9755443896_b73c3f6868.jpg[Bodenplatte_1, 500, 375, link="http://www.flickr.com/photos/stephschu/9755443896"]
 
 
 
