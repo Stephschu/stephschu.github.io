@@ -3,8 +3,43 @@ Stephan Schultheiß <stephan.schultheiss@gmail.com>
 :toc2: right
 :toc-title: Chronologie
 
+== 18.12.2013 Lattung Dach u. Innenwände DG
+* Heute wurde von der Firma Keiper die Dachfolie und die Lattung angebracht. Somit ist das Dach nun "winterfest" (in der Dachfolie habe ich bereits einige Löcher entdeckt, welche noch repariert werden müssen). Die Dachziegeln werden erst im nächsten Jahr gedeckt.
+* Da wir wg. dem Tod Oma Hertas nicht richtig in Stimmung für ein Richtfest sind haben wir entschieden dem Bautrupp von Firma Jung 100 EUR zu geben. Das Geld hab ich heute
+Matthias übergeben, mit der Bitte es mit den Anderen zu teilen.
+* Die Firma Jung hat vom 23.12.13 - 13.01.2014 Betriebsferien.
+Matthias hat mir noch ein paar offene Punkte genannt:
+* Position des Putzschachtes des Schornsteins im Keller.
+* Position des Putzschates des Schronsteins im DG.
+* Höhe des Sichtschutzes an der Toilette im Bad DG.
+* Höhe der Duschkabine.
+* Breite der Trennwand zur Duschkabine.
+
+Ursprünglich war angedacht die Treppe im KG mittels 11,5 er Steinen abzumauern, so dass sie die gleiche Optik wie die Treppe im EG bekommt. Leider reicht der Platz
+jetzt nicht dafür. (Geht jetzt doch, Frau Beck hatte die Idee mit der es sich doch so realisieren lässt).
+Matthias hat folgende Alternativen vorgeschlagen:
+* Unter der Treppe mit 11,5 er Steinen ausmauern. Und oben dann ein Geänder.
+* Die Treppe durch Trockenbau abschließen.
+
+* Leider sind die Anschlüsse der Fallrohre der Dachrinne nicht wie im Plan vorgesehen im Garten verlegt, sondern Richtung Straße. Das hat aktuell zur Folge, dass die Fallrohre direkt durch unsere Eckfenster führen würden. Das würde ziemlich bescheiden ausschauen. Im Neuen Jahr muss ich das mit Frau Beck nochmals durchsprechen, so jedenfalls kann es nicht bleiben.
+
+image::http://farm4.staticflickr.com/3808/11437357163_cbc3b57c58.jpg[Dachlattung - 10, 500, 375, link="http://www.flickr.com/photos/stephschu/11437357163"]
+image::http://farm4.staticflickr.com/3697/11437358873_0136e253d4.jpg[Dachlattung - 09, 500, 375, link="http://www.flickr.com/photos/stephschu/11437358873"]
+image::http://farm4.staticflickr.com/3822/11437259056_dcf8c793ef.jpg[Dachlattung - 08, 500, 375, link="http://www.flickr.com/photos/stephschu/11437259056"]
+
+
+== 13.12.2013 Dachgebälk
+Heute wurde von der Firma Keiper das Dach aufgeschlagen. Die Maurer hatten dann noch Zeit bis zum kommenden Mittwoch um alles auszumauern.
+
+image::http://farm4.staticflickr.com/3824/11407770163_4cba180819.jpg[Dachgebälk - 11, 500, 375, link="http://www.flickr.com/photos/stephschu/11407770163"]
+
+
+== 03.12.2013
+Herr Retzmann und Herr Beck von der Firma Wies waren vor Ort um die Fenster einzumessen obwohl im DG noch nicht alle Fenster fertig gemauert waren.
+
+
 == 23.11.2013 Elektroinstallation Erdgeschossdecke
-Heute mit Sebastian und Mum die Lampenkabel in die Betondecke des EG eingezogen.
+Heute mit Sebastian und Mum die Lampenkabel in die Betondecke des EG eingezogen (10 - 15 Uhr).
 
 image::http://farm3.staticflickr.com/2878/11012311005_c638760d89.jpg[Elektor-Erdgeschossdecke - 06, 500, 375, link="http://www.flickr.com/photos/stephschu/11012311005"]
 image::http://farm4.staticflickr.com/3731/11012498924_39b0d6e630.jpg[Elektor-Erdgeschossdecke - 04, 500, 375, link="http://www.flickr.com/photos/stephschu/11012498924"]
@@ -12,8 +47,8 @@ image::http://farm4.staticflickr.com/3731/11012498924_39b0d6e630.jpg[Elektor-Erd
 
 == 22.11.2013 Dachüberstand, Ziegel
 Frau Beck hat angerufen wg. dem Dachüberstand. Haben uns auf 30 cm verständigt. Anschließend mit unserem Zimmermann, Herrn Keiper telefoniert um das nochmal abzusprechen.
-Dabei kamen wir auch auf die Ziegeln zu sprechen. Ich hab ihm unsere Vorgaben (scharz, flach, Ton) mitgeteilt. Er teil die Parameter nun seinem Zulieferere mit, und
-wird uns dann eine Auswahl zukommen lassen. Als Alternative macht er uns noch ein Angebot für die von uns bei Köbig in MZ entdeckte Ziegel (http://www.wienerberger.de/flachdachziegel-e-32-in-tiefschwarz.html[Koramic E32]).
+Dabei kamen wir auch auf die Ziegeln zu sprechen. Ich hab ihm unsere Vorgaben (schwarz, flach, Ton) mitgeteilt. Er teil die Parameter nun seinem Zulieferer mit, und
+wird uns dann eine Auswahl zukommen lassen. Als Alternative macht er uns noch ein Angebot für die von uns bei Köbig in MZ entdeckte Ziegel (http://www.wienerberger.de/flachdachziegel-e-32-in-tiefschwarz.html[Koramic E32]). Wir haben uns dann für die  http://www.wienerberger.de/actua-10-flachziegel-mit-volumen.html[Koaramic Actua 10 in mattschwarz] entschieden.
 
 == 28.10.2013 Revisionschacht und Zisterne
 Vororttermin mit Frau Beck. Es wurde besprochen wie wir das mit der Schiebetür regeln wollen. Es wird nun alles ohne Stufe gemacht.
@@ -36,32 +71,34 @@ image::http://farm8.staticflickr.com/7335/10514795556_033f61be1b.jpg[Kellerdecke
 == 10.10.2013 Kellerwänder gestellt
 Die Betonelemente der Aussenwände des Kellers wurden heute geliefert und aufgestellt.
 
+image::http://farm4.staticflickr.com/3803/10221029193_95b22033d2.jpg[Keller - 4, 500, 375, link="http://www.flickr.com/photos/stephschu/10221029193"]
+
 == 26.09.2013 L-Steine, Gründung Garage, Grenzstein und Berliner Verbund
-* Treffen mit Familie Maier lief entspannt. Haben direkt das Du angeboten bekommen. Deren Bauleiter Herr Muscheid war auch dabei. Wir haben uns jetzt darauf geeinigt, das unserer Garagenbodenplatte ca. 1m unterhalb der Bodenplatte des HAR von Familie Maier ist. So können wir mit leichtem Gefälle auf die Straße fahren.
+* Treffen mit Familie Maier lief entspannt. Haben direkt das "Du" angeboten bekommen. Deren Bauleiter, Herr Muscheid, war auch dabei. Wir haben uns jetzt darauf geeinigt, das unserer Garagenbodenplatte ca. 1 m unterhalb der Bodenplatte des HAR von Familie Maier ist. So können wir mit leichtem Gefälle auf die Straße fahren.
 * Hinter dem HAR der Maiers werden ebenfalls L-Steine gesetzt bis ca. Gartenmitte, weil dann das Niveau von Grundstück Maier und unserem in etwa gleich ist. Die L-Steine hinter dem Garten sollen auf Höhe unserer zukünftigen Bodenplatte gegründet werden.
-* Neben dem Pflanzdreieck das vor dem Grundstück von Familie Maier ist noch ein ca. 10 cm breiter Streifen vorhanden der zum Grundstück von Familie Maiere gehört. Aus optischen Gründen hat Familie Maier zugestimmt, das die L-Steine bündig an das Pflanzdreieck gesetzt werden und sie somit auf den Streifen verzichten. Wir werden diesen dann im Rahmen unserer Aussenarbeiten pflastern. 
+* Neben dem Pflanzdreieck das vor dem Grundstück von Familie Maier ist befindet sich ein ca. 10 cm breiter Streifen der zum Grundstück von Familie Maiere gehört. Aus optischen Gründen hat Familie Maier zugestimmt, das die L-Steine bündig an das Pflanzdreieck gesetzt werden und sie somit auf den Streifen verzichten. Wir werden diesen dann im Rahmen unserer Aussenarbeiten pflastern. (Leider wurde sich an die Absprache nicht gehalten und nun ein ca. 10 cm breiter "Absatz" vorhandne ist.
 * Berliner Verbund wurde fertiggestellt. Bauarbeiten ruhen jetzt bis zum Eintreffen der Kelleraussenwände.
 
 image::http://farm6.staticflickr.com/5491/9953945033_39ae88322a.jpg[P1020702, 500, 375, link="http://www.flickr.com/photos/stephschu/9953945033"]
 image::http://farm8.staticflickr.com/7351/9953827375_93e57066da.jpg[P1020703, 500, 375, link="http://www.flickr.com/photos/stephschu/9953827375"]
 
-== 24.09.2013 Wanddurchlässe WP, Vororttermin mit Herrn Maier
+== 24.09.2013 Wanddurchlässe Wärmepumpe, Vororttermin mit Herrn Maier
 * Anruf Frau Beck, das die von der Firma Marx von mir weitergeleiteten technischen Zeichnungen der Wandurchfürhung der Wärmepumpe zwei unterschiedlichen Maße aufweisen. Wandabstand 80 mm bzw. 250 mm. Herr Marx wäre heute leider nicht mehr zu erreichen... Frau Beck wollte das nochmal mit der Sekretärin von Herrn Marx durchsprechen und sich dann entscheiden welche Maße Sie an das Betonwerk für die Kellerwände weitergibt.
 * Herr Maier hat sich bei Frau Beck gemeldet um einen Vororttermin auszumachen (26.09.13 15:00 Uhr)
 
 == 23.09.2013 Garage, Kellerbestellung noch offen
 
-* Heute hatten wir einen Vororttermin mit Frau Beck um durchzusprechen wie wir die Garage alternativ anlegen können. Das Ganze war notwendig, da Herr Maier zeitnah L-Steine stellen möchte. Die Steine will er auf die aktuelle Geländehöhe stellen. Da unsere Garag aber aktuell unter der Geländelinie liegt, würden wir beim Ausheben der Garageneinfahrt seine L-Steine wieder hohl legen und müssten diese wieder befestigen, was mit nicht unerheblichen Kosten verbundne ist. + 
-Frau Beck hat vorgeschlagen die Garage anzuheben, so dass unsere Garage auf einer Höhe mit dem HAR von Familie Maier ist. So würden wir zu unserer Garage "hochfahren", anstatt wie geplant nach unten. Das hätte auch den Vorteil, das kein Wasser in die Garage laufen würde. Nachteil bei dieser Variante ist, das uns etwas Garten verloren ginge.
+* Heute hatten wir einen Vororttermin mit Frau Beck um durchzusprechen, wie wir die Garage alternativ anlegen können. Das Ganze war notwendig, da Herr Maier zeitnah L-Steine stellen möchte. Die Steine will er auf die aktuelle Geländehöhe stellen. Da unsere Garage aber aktuell unter der Geländelinie geplant ist, würden wir beim Ausheben der Garageneinfahrt seine L-Steine untergraben. Diese dann wieder ordnungsgemäß zu setzten wäre mit nicht unerheblichen Kosten verbundne. + 
+Frau Becks Vorschlag war: die Garage höher anzusetzten, so dass unsere Garage auf einer Höhe mit dem HAR von Familie Maier ist. So würden wir zu unserer Garage "hochfahren", anstatt wie geplant, nach unten. Das hätte auch den Vorteil, das kein Wasser in die Garage laufen kann. Nachteil bei dieser Variante ist, dass uns etwas Garten verloren geht.
 * Während des Gespräch hat uns Frau Beck auch noch mitgeteilt, dass der Keller doch noch nicht bestellt sei. Sie will dies aber umgehend machen. Aktuelle Lieferzeit sind 10 Werktage.
 * Rechnung von Frau Beck von der Firma Jung für die erste Abschlagszahlung (Bodenplatte, Kanal und Erdarbeiten) erhalten.
 
 == 18.09.2013 Bodenplatte gegossen
 
-* Am Morgen hat Frau Beck angerufen und mitgeteilt, das der Keller schon von Herrn Jung vor ca 2 Wochen bestellt wurde. D.h. die Öffnungen für die Wärmepumpe müssen nachträglich "reingeflext" werden. 
-* Die Entscheidung ist wohl gegen eine Tür im Keller gefallen. Jeder mit dem wir gesprochen haben hat bedenken wg. Wasser. Ausserdem müssten wir auch noch den Vorplatz anlegen, was auch zusätzliche Kosten verursachen würde was aktuell leider nicht drin ist.
+* Am Morgen hat Frau Beck angerufen und mitgeteilt, das der Keller schon von Herrn Jung vor ca 2 Wochen bestellt wurde (was sich aber im Nachhinein als falsch herausgestellt hat). D.h. die Öffnungen für die Wärmepumpe müssen nachträglich "reingeflext" werden. (was dann doch nicht der Fall war) 
+* Die Entscheidung ist wohl gegen eine Tür im Keller gefallen. Jeder mit dem wir gesprochen haben hatte Bedenken wg. evtl. Schäden durch Wasser. Ausserdem müssten wir auch noch den Vorplatz anlegen, was auch zusätzliche Kosten verursachen würde was aktuell leider nicht drin ist.
 * Angebot von Herrn Beck für eine Haustür erhalten.
-* Heute konnten wir die fertige Bodenplatte bewundern. + 
+* Heute konnten wir die fertige Bodenplatte bewundern.
 
 image::http://farm4.staticflickr.com/3669/9953930363_bdf4d2c2de.jpg[P1020700, 500, 375, link="http://www.flickr.com/photos/stephschu/9953930363"]
 image::http://farm8.staticflickr.com/7340/9804439384_1d3412daf0.jpg[P1020696, 500, 375, link="http://www.flickr.com/photos/stephschu/9804439384"]
@@ -72,16 +109,18 @@ image::http://farm8.staticflickr.com/7340/9804439384_1d3412daf0.jpg[P1020696, 50
 
 == 14.09.2013 Besichtigung der Baustelle
 
-Emma, Judith und ich waren heute auf der Baustelle und uns den bisherigen Baufortschritt anzuschauen. In die geschalte Bodenplatte wurde bereits angefangen die Eisenbewährung einzuarbeiten. Ich habe das ganze bildlich festgehalten.
+Emma, Judith und ich waren heute auf der Baustelle um uns den bisherigen Baufortschritt anzuschauen. In die geschalte Bodenplatte wurde bereits angefangen die Eisenbewehrung einzuarbeiten. Ich habe das ganze bildlich festgehalten.
 
 image::http://farm8.staticflickr.com/7423/9755228462_bdc5943449.jpg[Stahlmatten_6, 500, 375, link="http://www.flickr.com/photos/stephschu/9755228462"]
 
 == 13.09.2013 Ärger mit dem Bauunternehmer des Nachbarn
 
-Heute Mittag gegen 16 Uhr rief mich unsere zukünftiger Nachbar Herr Maier auf dem Handy an. Sein Bauunternehmer (Firma IWL Bauträger GmbH) hat unsere Baugrube bemängelt, diese sei nicht DIN gemäß und er (Herr Maier) solle uns beim Bauamt anzeigen. Das ganze ist wahrscheinlich die Retourkutsche für den <<Aushub,Abriss der Stahlstützen>> welche auf unser Grundstück ragten. Ich habe Herrn Maier mitgeteilt, dass ich unsere Architektin informiere. + 
-Da es Freitag war konnte ich Frau Beck nicht mehr im Büro erreichen, weswegen ich es unter Ihrere Privatnummer versuchte und sie dort auch erreichen konnte. Ich schilderte ihr das Problem, Sie versprach mir Herrn Jung zu informieren. Nach kurzer Zeit bekam ich den Rückruf von Frau Beck. Sie hat mit Herrn Jung geredet und Sie werden sich des Problems direkt am Montag annehmen. + 
-Ich rief daraufhin Herrn Maier an und berichtete ebenfallss, das das alles am Montag geregelt wird. Somit dachten wir das Problem sei aus der Welt. Allerdings rief mich Herr Maier direkt zurück, nachdem ehr mit seinem Bauunternehmer geredet hatte. Dieser meinte er hätte gern ein statisches Gutachten der Abstützarbeiten. Ich verabredete mit Herrn Maier, dass er mir den Sachverhalt nochmal per Mail mitteilen solle und die Kontaktdaten seines Bauunternehmers. Ich würde die Daten dann an Frau Beck weiterleiten, so dass die Fachk"männer" miteinander eine Problemlösung herbeiführen sollen. + 
-Hoffen wir mal, dass das ganze gut ausgeht...
+* Heute Mittag gegen 16 Uhr rief mich unsere zukünftiger Nachbar Herr Maier auf dem Handy an. Sein Bauunternehmer (Firma IWL Bauträger GmbH) hat unsere Baugrube bemängelt. Sie sei nicht DIN gemäß und er (Herr Maier) solle uns beim Bauamt anzeigen. Das ganze ist wahrscheinlich die Retourkutsche für den <<Aushub,Abriss der Stahlstützen>> welche auf unser Grundstück ragten. Ich habe Herrn Maier mitgeteilt, dass ich unsere Architektin informiere. + 
+Da es Freitag war konnte ich Frau Beck nicht mehr im Büro erreichen, weswegen ich es unter Ihrere Privatnummer versuchte und sie dort auch erreichen konnte. Ich schilderte ihr das Problem. Sie versprach mir das Ganze mit Herrn Jung abzuklären. +
+Nach kurzer Zeit bekam ich den Rückruf von Frau Beck. Sie hat mit Herrn Jung geredet und Sie werden sich des Problems direkt am Montag annehmen. + 
+Ich rief daraufhin Herrn Maier an und berichtete ebenfallss, das das alles am Montag geregelt wird. + 
+Eigentlich dachten wir, dass das Problem nun aus der Welt sei. Allerdings rief mich Herr Maier direkt zurück, nachdem er mit seinem Bauunternehmer geredet hatte. Dieser meinte er hätte gern ein statisches Gutachten der Abstützarbeiten. Ich verabredete mit Herrn Maier, dass er mir den Sachverhalt sowie die Kontaktdaten seines Bauunternehmers per Mail mitteilen solle. Ich würde die Daten dann an Frau Beck weiterleiten, so dass die Fach"männer" miteinander eine Problemlösung herbeiführen sollen. + 
+Hoffen wir mal, dass das ganze gut ausgeht... (ist es letztendlich war aber mit hohen Kosten verbundne).
 
 == 11.09.2013 Zusage Fenster bei Firma Wies
 
@@ -89,17 +128,17 @@ Dem Angebot für die Fenster Herrn Beck von der Firma Wies zugesagt.
 
 == 09.09.2013 Mahnung Kreisverwaltung Mainz-Bingen
 
-Frau Beck hat sich wieder gesund gemeldet. Wollte nochmal das Schreiben mit der "Mahnung" von der Kreisverwaltung Mainz-Bingen geschickt bekommen. In dem Schreiben wurde der fehlende Wärmeschutz und der Nachweis der Standsicherheit bemängelt. +
+* Frau Beck hat sich wieder gesund gemeldet. Sie wollte das Schreiben mit der "Mahnung" von der Kreisverwaltung Mainz-Bingen geschickt bekommen. Im Schreiben wurde der fehlende Wärmeschutz und der Nachweis der Standsicherheit bemängelt. +
 Sie sagte mir zu spätestens morgen Abend wären die Unterlagen vor Ort. Sie würde jetzt noch die Pläne für die Bodenplatte für die Firma Jung fertig machen und die Kanalpläne an Herrn Jung übersenden.
-Nachmittags mit Herrn Beck von der Firma Wies wg. dem Fensterangebot verhandelt. Morgen will er mir das überarbeitete Angebot zukommen lassen.
+* Nachmittags mit Herrn Beck von der Firma Wies wg. dem Fensterangebot verhandelt. Morgen will er mir das überarbeitete Angebot zukommen lassen.
 
 image::http://farm8.staticflickr.com/7319/9755438316_fa61f7d996.jpg[Bodenplatte_9, 500, 375, link="http://www.flickr.com/photos/stephschu/9755438316"]
 image::http://farm8.staticflickr.com/7404/9755241412_9977edbe3e.jpg[Stahlmatten_1, 500, 375, link="http://www.flickr.com/photos/stephschu/9755241412"]
 
 == 06.09.2013 Beginn Arbeiten Bodenplatte
 
-Ein Bautrupp der Firma Jung hat mit dem einbringen der Schotterschicht für die Bodenplatte begonnen. +
-Ich war mit Emma und Mum vor Ort (Hautarzttermin währenddessenMum hat auf Emma aufgepasst) und hab den Bauarbeiten einen Sixpack Wasser und Cola spendiert weil es ca 29° hatte.
+Ein Bautrupp der Firma Jung hat mit dem Einbringen der Schotterschicht für die Bodenplatte begonnen. +
+Ich war mit Emma und Mum vor Ort (Hautarzttermin währenddessen Mum auf Emma aufgepasst hat). Da es unerträglich heiß war (29°C) hab ich den Bauarbeiten einen Sixpack Wasser und Cola spendiert.
 
 image::http://farm6.staticflickr.com/5503/9755516053_d8b54de273.jpg[Bodenplatte_6, 500, 375, link="http://www.flickr.com/photos/stephschu/9755516053"]
 image::http://farm4.staticflickr.com/3817/9775998235_154c99f096.jpg[P1000913, 500, 375, link="http://www.flickr.com/photos/stephschu/9775998235"]
@@ -107,11 +146,11 @@ image::http://farm4.staticflickr.com/3817/9775998235_154c99f096.jpg[P1000913, 50
 
 == 05.09.2013 Beginn Aushubarbeiten [[Aushub]]
 
-Beginn mit dem Aushub der Baugrube durch die Firma Kuhn aus Wallertheim. +
-Direkt morgens rief mich Herr Jung an, mit der Nachricht, dass auf unserem Grundstück ca 30 Stahlstüzten vom Nachbargrundstück hineinragen. Die Stahlstützen wurde von den Bauarbeitern unseres Nachbarn Herrn Maier verwendet um die Schalung seiner Bodenplatte abzustützen. +
-So könnten keine Baggerarbeiten durchgeführt werden, er müsse die Stahlstützen abreißen lassen. Von Herr Maiers Baufirma wäre auch niemand vor Ort um das zu klären. Ich stimmte dem Abriss zu und versprach mit mit Herrn Maier in Verbindung zu setzten. +
-Das Telefonat mit Herrn Maier verlief gottlob sehr gut. Ihm war die Situation schon bekannt, allerdings hätte sein Bautrupp gesagt das Vorgehen wäre mit einem "meiner Leute" abgesprochen. Einen Namen hätte er aber nicht. Er hat den Abriss jedenfalls relativ gelassen zur Kenntnis genommen. +
-Frau Beck war leider noch immer krank.
+* Beginn mit dem Aushub der Baugrube durch die Firma Kuhn aus Wallertheim.
+* Direkt morgens rief mich Herr Jung an, mit der Nachricht, dass auf unserem Grundstück ca 30 Stahlstützen vom Nachbargrundstück hineinragen. Die Stahlstützen wurde von den Bauarbeitern unseres Nachbarn Herrn Maier verwendet um die Schalung seiner Bodenplatte abzustützen. +
+So könnten keine Baggerarbeiten durchgeführt werden. Er müsse die Stahlstützen abreißen lassen. Von Herr Maiers Baufirma wäre auch niemand vor Ort um das klären zu können. Ich stimmte dem Abriss zu und versprach mich mit Herrn Maier in Verbindung zu setzten.
+* Das Telefonat mit Herrn Maier verlief gottlob sehr gut. Ihm war die Situation schon bekannt, allerdings hätte sein Bautrupp gesagt das Vorgehen wäre mit einem "meiner Leute" abgesprochen. Einen Namen hätte er aber nicht. Er hat den Abriss jedenfalls relativ gelassen zur Kenntnis genommen (Er hat ja auch nicht die Mehrkosten zu tragen...).
+* Frau Beck war leider noch immer krank.
 
 image::http://farm8.staticflickr.com/7457/9755451625_18e15bcc9b.jpg[Baggerarbeiten_4, 500, 375, link="http://www.flickr.com/photos/stephschu/9755451625"]
 image::http://farm3.staticflickr.com/2805/9755443896_b73c3f6868.jpg[Bodenplatte_1, 500, 375, link="http://www.flickr.com/photos/stephschu/9755443896"]
