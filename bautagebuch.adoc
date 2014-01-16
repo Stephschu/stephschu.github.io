@@ -10,6 +10,7 @@ Stephan Schultheiß <stephan.schultheiss@gmail.com>
 == 15.01.2014 Vororttermin mit Bezirksschonsteinfeger
 Heute hatte ich einen Vororttermin mit unserem Bezirksschornsteinfeger Herrn Petri. Fau Beck war auch anwesend. Es sollte die Höhe der Putztüren für den Kamin besprochen werden.
 Folgende Vorgaben wurden gemacht:
+
 * Im Keller sollte die Putztür bei ~ 40 cm sein.
 * In der Gallerie sollte die Putztür in Brusthöhe sein ~ 140 cm.
 * Pro Putztür muss eine mindestens 50x50 cm große brandbeständige "Platte" vorhandne sein. Damit im Falle einen Kaminbrandes und zum Putzen etwas vor die Putztür gelegt werden kann
