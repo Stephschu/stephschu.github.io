@@ -1,0 +1,17 @@
+{
+  "name": "charts",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Chart.js": "~1.0.1",
+    "bootstrap": "~3.3.2"
+  }
+}
